@@ -3,7 +3,7 @@
 ## Overview
 This project was developed as part of the Kaggle competition [NLP - Getting Started](https://www.kaggle.com/competitions/nlp-getting-started), where the goal is to predict whether a tweet is about a real disaster or not. This is a binary classification problem that uses textual data as input. The key evaluation metric is the **F1 score**.
 
-**Rank**: As of writing this notebook, the model is ranked **58th out of 924** in the competition leaderboard.
+**Rank**: As of writing this notebook, the model is ranked **58th out of 924** in the competition leaderboard. This is my first time working with Large Language Models (LLMs).
 
 ## Highlights
 - **Model**: Fine-tuned **DistilBERT Pretrained Model**
@@ -25,5 +25,4 @@ This project was developed as part of the Kaggle competition [NLP - Getting Star
 - **Accuracy**: 85%
 - **Leaderboard Position**: 58/924
 
-## Experience
-This is my first time working with Large Language Models (LLMs).
+
