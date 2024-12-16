@@ -26,4 +26,4 @@ This project was developed as part of the Kaggle competition [NLP - Getting Star
 - **Leaderboard Position**: 58/924
 
 ## Experience
-This is my first time working with Large Language Models (LLMs), and I have gained valuable insights into transformer models. Any suggestions or advice for further improvement are highly welcome!
+This is my first time working with Large Language Models (LLMs).
