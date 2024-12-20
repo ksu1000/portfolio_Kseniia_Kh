@@ -18,3 +18,6 @@ This repository contains a collection of works in Python, organized into differe
   - Optuna (for hyperparameter optimization)
  
   - ## Completed Works
+| Project               | Description                               | Techniques Applied                                                                 |
+|-----------------------|-------------------------------------------|------------------------------------------------------------------------------------|
+| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function |
