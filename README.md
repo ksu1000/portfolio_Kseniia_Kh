@@ -8,7 +8,7 @@ This repository contains a collection of works in Python, organized into differe
 - **tabular_data/**: Projects focused on analyzing tabular data, such as classification, regression, and exploratory data analysis (EDA).
 - **text/**: Projects that focus on natural language processing (NLP), such as text analysis, text classification models, etc.
 
-- - **Language**: Python
+- **Language**: Python
 - **Main Libraries**: 
   - Pandas, NumPy (for data handling)
   - Matplotlib, Seaborn (for visualization)
@@ -17,7 +17,9 @@ This repository contains a collection of works in Python, organized into differe
   - Transformers (Hugging Face, for state-of-the-art NLP models)
   - Optuna (for hyperparameter optimization)
  
-  - ## Completed Works
-| Project               | Description                               | Techniques Applied                                                                 |
-|-----------------------|-------------------------------------------|------------------------------------------------------------------------------------|
-| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function |
+  ## Completed Works
+  ### **images/**
+| Project               | Description                                               | Techniques Applied                                                                 |
+|-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
+| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function, `tf.data.Dataset` |
+| vegetables_classification | Classification of vegetables using images                | Data Augmentation, Transfer Learning, Fine Tuning, MobileNet, `ImageDataGenerator` |
