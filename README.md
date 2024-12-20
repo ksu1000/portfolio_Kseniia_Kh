@@ -17,9 +17,15 @@ This repository contains a collection of works in Python, organized into differe
   - Transformers (Hugging Face, for state-of-the-art NLP models)
   - Optuna (for hyperparameter optimization)
  
-  ## Completed Works
-  ### **images/**
+## Completed Works
+### Image Projects
 | Project               | Description                                               | Techniques Applied                                                                 |
 |-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
 | pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function, `tf.data.Dataset` |
 | vegetables_classification | Classification of vegetables using images                | Data Augmentation, Transfer Learning, Fine Tuning, MobileNet, `ImageDataGenerator` |
+
+### Tabular Data Projects
+
+| Project                     | Description                                               | Techniques Applied                                                                 |
+|-----------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
+| insurance_premium_prediction | Regression for insurance premiums based on customer attributes | EDA, Feature Engineering, Log Transformations, Imputation of Missing Data, Encoding Categorical Features, Standardization, Pipeline, LGBMRegressor, Optuna |
