@@ -36,3 +36,7 @@ This repository contains a collection of works in Python, organized into differe
 | Project               | Description                                               | Approach & Techniques Applied                                                                 |
 |-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
 | tweets_classification | Binary classification of tweets into two categories: disaster and normal | Deep Learning, Data Cleaning, Tokenizer, Hidden States & Logistic Regression, Fine-tuning, DistilBERT, Class Weights, Learning Curves, Confusion Matrix, Classification Report |
+
+# About Me
+
+![About Me](https://github.com/ksu1000/portfolio_Kseniia_Kh/blob/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png)
