@@ -43,3 +43,13 @@ This repository contains a collection of works in Python, organized into differe
 |:--:|:--:|
 | ![My Activities (Pie Chart)](https://raw.githubusercontent.com/ksu1000/portfolio_Kseniia_Kh/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png) | ![Word Cloud](https://github.com/ksu1000/portfolio_Kseniia_Kh/blob/d1b5f18c8e4c88e838e403472cb6f0b17d2e731a/assets/activities.png) |
 
+Para añadir la imagen que mencionas debajo del gráfico de radar en tu portfolio de GitHub, puedes seguir el formato de Markdown para incrustar la imagen. En Markdown, puedes usar el siguiente formato para añadir imágenes en el cuerpo de tu archivo:
+
+markdown
+Copiar código
+| **In My Mind** | **My Life Balance** |
+|:--:|:--:|
+| ![My Activities (Pie Chart)](https://raw.githubusercontent.com/ksu1000/portfolio_Kseniia_Kh/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png) | ![Word Cloud](https://github.com/ksu1000/portfolio_Kseniia_Kh/blob/d1b5f18c8e4c88e838e403472cb6f0b17d2e731a/assets/activities.png) |
+| **My Grades and Average** |
+|:--:|
+| ![Grades Image](https://github.com/ksu1000/portfolio_Kseniia_Kh/blob/93484a2af0088a4788d7956e868c5f8899198db1/assets/grades.png) |
