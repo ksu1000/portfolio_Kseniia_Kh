@@ -37,17 +37,9 @@ This repository contains a collection of works in Python, organized into differe
 |-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
 | tweets_classification | Binary classification of tweets into two categories: disaster and normal | Deep Learning, Data Cleaning, Tokenizer, Hidden States & Logistic Regression, Fine-tuning, DistilBERT, Class Weights, Learning Curves, Confusion Matrix, Classification Report |
 
-# About Me in a Few Graphics
+# About Me: A Picture is Worth a Thousand Words
 
-<table>
-  <tr>
-    <td style="text-align: center; padding-right: 20px;">
-      <h4>My Activities (Pie Chart)</h4>
-      <img src="https://raw.githubusercontent.com/ksu1000/portfolio_Kseniia_Kh/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png" alt="My Activities" style="width: 300px; height: auto;">
-    </td>
-    <td style="text-align: center;">
-      <h4>Word Cloud</h4>
-      <img src="https://raw.githubusercontent.com/ksu1000/portfolio_Kseniia_Kh/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png" alt="Word Cloud" style="width: 300px; height: auto;">
-    </td>
-  </tr>
-</table>
+| **In My Mind** | **My Life Balance** |
+|:--:|:--:|
+| ![My Activities (Pie Chart)](https://raw.githubusercontent.com/ksu1000/portfolio_Kseniia_Kh/c9e47a0568c9d120d358b113e281b151f6c33520/assets/silueta_word_cloud.png) | ![Word Cloud](https://github.com/ksu1000/portfolio_Kseniia_Kh/blob/d1b5f18c8e4c88e838e403472cb6f0b17d2e731a/assets/activities.png) |
+
