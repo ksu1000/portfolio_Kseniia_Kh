@@ -1,46 +1,41 @@
-# Portfolio
+# Context About Kseniia
 
-## 1. Introduction
-This repository showcases a collection of my projects focused on **Machine Learning** and **Deep Learning**, leveraging Python and TensorFlow. The work is categorized into three main areas according to the input data type: image, tabular data, and text. Below, you will find a description of these categories and completed projects. But first, let me introduce myself a little
+Kseniia is a passionate data scientist and machine learning enthusiast. She specializes in projects across various domains, including image processing, tabular data analysis, and natural language processing.
 
+## 1. About Kseniia
+- **Main Interests:** Machine Learning, Deep Learning, Data Science.
+- **Key Skills and Tools:** Python, TensorFlow, Pandas, NumPy, Scikit-learn, Hugging Face Transformers, Optuna.
+- **Notable Projects:** Pneumonia detection from chest X-rays, vegetable classification, insurance premium prediction, tweet classification.
 
-## 3. Repository Structure
+## 2. Portfolio Structure
+Kseniia organizes her work into three main categories based on the input data type:
+1. **Images:** Projects involving computer vision and image processing.
+2. **Tabular Data:** Analysis and modeling of structured datasets for tasks like classification and regression.
+3. **Text:** Natural language processing projects, including text classification and sentiment analysis.
 
-- **images/**: Projects related to image processing, computer vision models, and other works involving images as input.
-- **tabular_data/**: Projects focused on analyzing tabular data, such as classification, regression, and exploratory data analysis (EDA).
-- **text/**: Projects that focus on natural language processing (NLP), such as text analysis, text classification models, etc.
+### Tools Used in Projects
+- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn.
+- **Model Development:** TensorFlow, Scikit-learn, Hugging Face Transformers.
+- **Hyperparameter Optimization:** Optuna.
 
-## 4. Tools
-- **Language**: Python
-- **Main Libraries**: 
-  - Pandas, NumPy (for data handling)
-  - Matplotlib, Seaborn (for visualization)
-  - TensorFlow (for deep learning)
-  - Scikit-learn (for ML models)
-  - Transformers (Hugging Face, for state-of-the-art NLP models)
-  - Optuna (for hyperparameter optimization)
- 
-## 5. Completed Works
+## 3. Completed Projects
 ### Image Projects
-| Project               | Description                                               | Approach & Techniques Applied                                                                  |
-|-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function, `tf.data.Dataset` |
-| vegetables_classification | Classification of vegetables using images                | Deep Learning, Data Augmentation, Transfer Learning, Fine Tuning, MobileNet, `ImageDataGenerator` |
+1. **Pneumonia Segmentation:** 
+   - A multitask learning project for segmenting and classifying pneumonia from chest X-ray images.
+   - Techniques: U-Net, residual blocks, multimodal data with late fusion, custom loss function.
+2. **Vegetable Classification:**
+   - A project for classifying vegetables using image data.
+   - Techniques: Transfer learning, MobileNet, data augmentation, fine-tuning.
 
 ### Tabular Data Projects
-
-| Project                     | Description                                               | Approach & Techniques Applied                                                                 |
-|-----------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| insurance_premium_prediction | Regression for insurance premiums based on customer attributes | Machine Learning, EDA, Feature Engineering, Log Transformations, Imputation of Missing Data, Encoding Categorical Features, Standardization, Pipeline, LGBMRegressor, Optuna |
+1. **Insurance Premium Prediction:** 
+   - Regression to predict insurance premiums based on customer attributes.
+   - Techniques: Feature engineering, missing data imputation, log transformations, LGBMRegressor, pipelines.
 
 ### Text Projects
-
-| Project               | Description                                               | Approach & Techniques Applied                                                                 |
-|-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| tweets_classification | Binary classification of tweets into two categories: disaster and normal | Deep Learning, Data Cleaning, Tokenizer, Hidden States & Logistic Regression, Fine-tuning, DistilBERT, Class Weights, Learning Curves, Confusion Matrix, Classification Report |
-
-
-
+1. **Tweet Classification:**
+   - Binary classification of tweets into disaster or non-disaster categories.
+   - Techniques: Data cleaning, tokenization, fine-tuning DistilBERT, confusion matrices, classification reports.
 
 
 
