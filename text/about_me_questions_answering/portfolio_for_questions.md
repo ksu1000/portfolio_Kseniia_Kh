@@ -1,4 +1,4 @@
-# Context About Kseniia
+# Portfolio
 
 Kseniia is a passionate data scientist and machine learning enthusiast. She specializes in projects across various domains, including image processing, tabular data analysis, and natural language processing.
 
