@@ -20,20 +20,20 @@ Kseniia organizes her work into three main categories based on the input data ty
 
 ## 3. Completed Projects
 ### Image Projects
-1. **Pneumonia Segmentation:** 
+1. **Pneumonia Segmentation (Deep Learning):** 
    - A multitask learning project for segmenting and classifying pneumonia from chest X-ray images.
    - Techniques: U-Net, residual blocks, multimodal data with late fusion, custom loss function.
-2. **Vegetable Classification:**
+2. **Vegetable Classification (Deep Learning):**
    - A project for classifying vegetables using image data.
    - Techniques: Transfer learning, MobileNet, data augmentation, fine-tuning.
 
 ### Tabular Data Projects
-1. **Insurance Premium Prediction:** 
+1. **Insurance Premium Prediction (machine learning):** 
    - Regression to predict insurance premiums based on customer attributes.
    - Techniques: Feature engineering, missing data imputation, log transformations, LGBMRegressor, pipelines.
 
 ### Text Projects
-1. **Tweet Classification:**
+1. **Tweet Classification (Deep Learning):**
    - Binary classification of tweets into disaster or non-disaster categories.
    - Techniques: Data cleaning, tokenization, fine-tuning DistilBERT, confusion matrices, classification reports.
 
