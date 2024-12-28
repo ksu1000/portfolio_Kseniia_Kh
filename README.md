@@ -1,7 +1,11 @@
 # Portfolio
 
 ## 1. Introduction
-This repository showcases a collection of my projects focused on **Machine Learning** and **Deep Learning**, leveraging Python and TensorFlow. The work is categorized into three main areas according to the input data type: image, tabular data, and text. Below, you will find a description of these categories and completed projects. But first, let me introduce myself a little
+This repository showcases a collection of my projects focused on **Machine Learning** and **Deep Learning**, leveraging Python and TensorFlow. The work is categorized into three main areas according to the input data type: image, tabular data, and text. Below, you will find a description of these categories and completed projects. 
+
+One of my latest work is a **Question-Answering** System built using Retrieval Augmented Generation (RAG) with the Llama **LLM**. This system takes user queries, retrieves relevant context from a set of documents, and generates coherent answers in multiple languages, adapting to the language of the input. The project highlights my ability to work with large language models, retrieval systems, and text-based data, providing a real-world example of how machine learning can be applied to natural language processing tasks.
+
+But first, let me introduce myself a little.
 
 ## 2. About Me: A Picture is Worth a Thousand Words
 
@@ -26,7 +30,7 @@ This repository showcases a collection of my projects focused on **Machine Learn
 
 - **images/**: Projects related to image processing, computer vision models, and other works involving images as input.
 - **tabular_data/**: Projects focused on analyzing tabular data, such as classification, regression, and exploratory data analysis (EDA).
-- **text/**: Projects that focus on natural language processing (NLP), such as text analysis, text classification models, etc.
+- **text/**: Projects that focus on natural language processing (NLP), such as text analysis, text classification models, question-answering, and generative models.
 
 ## 4. Tools
 - **Language**: Python
@@ -37,26 +41,27 @@ This repository showcases a collection of my projects focused on **Machine Learn
   - Scikit-learn (for ML models)
   - Transformers (Hugging Face, for state-of-the-art NLP models)
   - Optuna (for hyperparameter optimization)
+  - LangChain (for building and managing NLP pipelines, especially for RAG tasks)
  
 ## 5. Completed Works
 ### Image Projects
 | Project               | Description                                               | Approach & Techniques Applied                                                                  |
 |-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, U-Net, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function, `tf.data.Dataset` |
+| pneumonia_segmentation | Multitask learning for segmenting and classifying pneumonia from chest X-ray images | Deep Learning, **U-Net**, Residual Blocks, Multi-input Multi-output, Late Fusion (multimodal data), Personalized Loss Function, `tf.data.Dataset` |
 | vegetables_classification | Classification of vegetables using images                | Deep Learning, Data Augmentation, Transfer Learning, Fine Tuning, MobileNet, `ImageDataGenerator` |
 
 ### Tabular Data Projects
 
 | Project                     | Description                                               | Approach & Techniques Applied                                                                 |
 |-----------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| insurance_premium_prediction | Regression for insurance premiums based on customer attributes | Machine Learning, EDA, Feature Engineering, Log Transformations, Imputation of Missing Data, Encoding Categorical Features, Standardization, Pipeline, LGBMRegressor, Optuna |
+| insurance_premium_prediction | Regression for insurance premiums based on customer attributes | Machine Learning, EDA, Feature Engineering, Log Transformations, Imputation of Missing Data, Encoding Categorical Features, Standardization, Pipeline, LGBMRegressor, **Optuna** |
 
 ### Text Projects
 
 | Project               | Description                                               | Approach & Techniques Applied                                                                 |
 |-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------------|
-| tweets_classification | Binary classification of tweets into two categories: disaster and normal | Deep Learning, Data Cleaning, Tokenizer, Hidden States & Logistic Regression, Fine-tuning, DistilBERT, Class Weights, Learning Curves, Confusion Matrix, Classification Report |
-
+| tweets_classification | Binary classification of tweets into two categories: disaster and normal | Deep Learning, Data Cleaning, Tokenizer, Hidden States & Logistic Regression, Fine-tuning, **DistilBERT**, Class Weights, Learning Curves, Confusion Matrix, Classification Report |
+| about_me_questions_answering_llama_rag | A question-answering system about Kseniia, using **Retrieval-Augmented Generation (RAG)** with **Llama LLM** | **LangChain**, Retrieval-Augmented Generation (RAG), Question Answering Pipeline, Llama LLM, FAISS, Semantic Search, Prompt Engineering |
 
 
 
