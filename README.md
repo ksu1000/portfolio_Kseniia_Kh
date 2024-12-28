@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 1. Introduction
-This repository showcases a collection of my projects focused on **Machine Learning** and **Deep Learning**, leveraging Python and TensorFlow. The work is categorized into three main areas according to the input data type: image, tabular data, and text. Below, you will find a description of these categories and completed projects. 
+This repository showcases a collection of my projects focused on **Machine Learning** and **Deep Learning**, leveraging Python. The work is categorized into three main areas according to the input data type: image, tabular data, and text. Below, you will find a description of these categories and completed projects. 
 
 One of my latest work is a **Question-Answering** System built using Retrieval Augmented Generation (RAG) with the Llama **LLM**. This system takes user queries, retrieves relevant context from a set of documents, and generates coherent answers in multiple languages, adapting to the language of the input. The project highlights my ability to work with large language models, retrieval systems, and text-based data, providing a real-world example of how machine learning can be applied to natural language processing tasks.
 
